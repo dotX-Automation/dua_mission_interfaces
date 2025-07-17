@@ -1,0 +1,10 @@
+# Localize a target in a given image.
+#
+# July 17, 2025
+
+# REQUEST
+dua_mission_interfaces/VisualTargets targets
+sensor_msgs/CameraInfo camera_info
+---
+# RESPONSE
+dua_mission_interfaces/VisualTargets localized_targets
