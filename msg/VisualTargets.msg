@@ -7,3 +7,5 @@
 vision_msgs/Detection2DArray targets
 
 sensor_msgs/Image image
+
+sensor_msgs/CameraInfo camera_info

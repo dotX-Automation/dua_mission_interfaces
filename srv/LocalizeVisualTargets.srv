@@ -4,7 +4,6 @@
 
 # REQUEST
 dua_mission_interfaces/VisualTargets targets
-sensor_msgs/CameraInfo camera_info
 ---
 # RESPONSE
 dua_mission_interfaces/VisualTargets localized_targets
