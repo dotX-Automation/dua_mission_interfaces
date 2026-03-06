@@ -4,8 +4,6 @@
 #
 # October 20, 2023
 
-vision_msgs/Detection2DArray targets
+dua_mission_interfaces/Target2DArray targets
 
 sensor_msgs/CompressedImage image
-
-sensor_msgs/CameraInfo camera_info
