@@ -9,5 +9,5 @@ std_msgs/Header header
 # Camera Info
 sensor_msgs/CameraInfo camera_info
 
-# Corners
+# 2D target detections
 dua_mission_interfaces/Target2D[] targets
