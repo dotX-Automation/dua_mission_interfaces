@@ -1,4 +1,4 @@
-# Cartesian coordinates waypoint.
+# Cartesian coordinates waypoint command arguments.
 #
 # July 27, 2026
 
