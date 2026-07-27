@@ -1,4 +1,4 @@
-# Geographic coordinates waypoint.
+# Geographic coordinates waypoint command arguments.
 #
 # July 27, 2026
 
