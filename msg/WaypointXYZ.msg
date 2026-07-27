@@ -2,7 +2,7 @@
 #
 # July 27, 2026
 
-std_msgs/String frame_id
+string frame_id
 
 float64 x
 float64 y
